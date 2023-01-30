@@ -3,7 +3,7 @@
 👩About Me:
 ------------
 
-Hi there 👋 My name is rafia. I am currently a CS student in **Air university**. After diving into **computer science** over the past 4 months, I have shifted my educational focus to learn **programming language**s and **problem solving skills**. I am still polishing my skillsa through taking differnt programming courses online.
+Hi there 👋 My name is rafia. I am currently a CS student in **Air university**. After diving into **computer science** over the past 4 months, I have shifted my educational focus to learn **programming language**s and **problem solving skills**. I am also polishing my skills by taking differnt programming courses online.
 
 📊 My Github Stats:
 ------------
