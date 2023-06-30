@@ -3,7 +3,7 @@
 👩About Me:
 ------------
 
-Hi there 👋 My name is rafia. I am currently a CS student in **Air university**. After diving into **computer science** over the past 4 months, I have shifted my educational focus to learn **programming language**s and **problem solving skills**. I am also polishing my skills by taking differnt programming courses online.
+Hi there 👋 My name is rafia. I am currently a CS student. After diving into **computer science**, I have shifted my educational focus to learn **programming language**s and **problem solving skills**.
 
 📊 My Github Stats:
 ------------
@@ -23,6 +23,7 @@ Hi there 👋 My name is rafia. I am currently a CS student in **Air university*
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 👯Contact Me:
 ------------
