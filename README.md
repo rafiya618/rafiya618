@@ -10,7 +10,6 @@ Hi there 👋 My name is rafia. I am currently a CS student. After diving into *
 
 <img align="left" width="57%" height="300px" src="https://github-readme-stats.vercel.app/api?username=rafiya618&show_icons=true&theme=cobalt" />
 
-<img align="left" width="37%"  height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiya618&theme=cobalt" />
 
 🚩Extra Courses:
 ------------
