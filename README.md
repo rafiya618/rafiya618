@@ -5,12 +5,6 @@
 
 Hi there 👋 My name is rafia. I am currently a CS student. After diving into **computer science**, I have shifted my educational focus to learn **programming language**s and **problem solving skills**.
 
-📊 My Github Stats:
-------------
-
-<img align="left" width="57%" height="300px" src="https://github-readme-stats.vercel.app/api?username=rafiya618&show_icons=true&theme=cobalt" />
-<img align="left" width="37%"  height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiya618&theme=cobalt" />
-
 🚩Extra Courses:
 ------------
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
