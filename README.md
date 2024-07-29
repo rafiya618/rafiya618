@@ -36,5 +36,5 @@ Hi there 👋 My name is rafia. I am currently a CS student. After diving into *
 </a> 
 
 ![Rafia's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafiya618&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafiya618&langs_count=8&hide=CMake,Swift&layout=donut)](https://github.com/rafiya618/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafiya618&langs_count=6&hide=CMake,Swift&layout=donut)](https://github.com/rafiya618/github-readme-stats)
 
