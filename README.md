@@ -35,5 +35,6 @@ Hi there 👋 My name is rafia. I am currently a CS student. After diving into *
 <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a> 
 
-![Rafia's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafiya618&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafiya618&langs_count=8&layout=donut)](https://github.com/rafiya618/github-readme-stats)
+![Rafia's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafiya618&show_icons=true&theme=radical)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafiya618&langs_count=8&hide=CMake,Swift&layout=donut)](https://github.com/rafiya618/github-readme-stats)
 
