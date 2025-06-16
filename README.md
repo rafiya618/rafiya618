@@ -3,7 +3,7 @@
 👩About Me:
 ------------
 
-Hi there 👋 My name is rafia. I am currently a CS student. After diving into **computer science**, I have shifted my educational focus to learn **programming language**s and **problem solving skills**.
+Hi there 👋 My name is rafia. After diving into **computer science**, I have shifted my educational focus to learn **programming language**s and **problem solving skills**.
 
 🚩Extra Courses:
 ------------
