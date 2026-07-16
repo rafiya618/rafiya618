@@ -152,12 +152,6 @@ flowchart TD
 
 <br/>
 
-<div align="right">
-<sub><a href="https://github.com/rafiya618?tab=repositories">View all repositories →</a></sub>
-</div>
-
-<br/>
-
 ## Open Source
 
 I contribute to and maintain projects across backend tooling and AI infrastructure. Active contributions and
